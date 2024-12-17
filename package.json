@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bqtung123/nodejs_blog_ver2.git"
+  },
+  "keywords": [
+    "blog_tungbq"
+  ],
+  "author": "tungbq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bqtung123/nodejs_blog_ver2/issues"
+  },
+  "homepage": "https://github.com/bqtung123/nodejs_blog_ver2#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
